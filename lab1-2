@@ -1,0 +1,26 @@
+<!doctype html>
+
+<html lang='en'>
+	<head>
+		<meta charset='utf-8'>
+		<title> IAT 381 Lab 1</title>
+
+		<link rel='stylesheet' href='css/bootstrap.css'>
+	</head>
+	<body>
+
+		<div class ='container-fluid'>
+			 <ul class="nav nav-tabs">
+			  <li role="presentation"><a href="Lab 1">Home</a></li>
+			  <li role="presentation"><a href="lab1-2">Tab1</a></li>
+			  <li role="presentation"><a href="lab1-3">Tab2</a></li>
+			</ul>
+
+
+			<h1> Tab1</h1>
+			<div class='row'>
+				<h3>Something</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu facilisis quam, sed commodo arcu. Nullam vulputate justo nec nulla elementum, eget porta elit molestie. Suspendisse scelerisque non lorem blandit tincidunt. Sed tincidunt non odio nec semper. Aliquam fringilla sed ligula a eleifend. Nunc et tempus dui, non malesuada eros. Pellentesque sem risus, consectetur at venenatis quis, feugiat euismod magna. Duis ullamcorper diam vel pretium eleifend. Phasellus sed sollicitudin enim. Morbi ac vulputate sem. Cras ut elementum dolor. Proin interdum pulvinar aliquam. Pellentesque porttitor vulputate sem eget vulputate. Vestibulum euismod mauris dui, sed ultrices tortor egestas vel. Suspendisse vitae turpis vel neque dapibus congue.</p>
+				</div>
+		</div>
+	</body>
